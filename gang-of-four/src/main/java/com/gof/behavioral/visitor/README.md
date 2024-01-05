@@ -1,2 +1,0 @@
-## Defining the model
-
